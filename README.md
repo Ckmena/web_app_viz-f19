@@ -1,2 +1,2 @@
-# web_app_viz-f19
+# Class files for Web Applications 
 Class exercises - Web Application w Pan 
